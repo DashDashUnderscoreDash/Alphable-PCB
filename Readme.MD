@@ -7,8 +7,8 @@ The goal of this PCB is to have a basic in stock 12u alpha stagger PCB
 ### In this repo you will find:
 ```
 - Layout options
-- Images of PCB - *Front only for now*
-- Firmware - *WIP*
+- Images of PCB - Front only for now
+- Firmware - WIP
 - STEP model of PCB
 - Edgecuts
 ```
