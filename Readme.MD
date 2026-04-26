@@ -17,6 +17,5 @@ The goal of this PCB is to have a basic in stock 12u alpha stagger PCB
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20KLC.jpg)
 
-### PCB images
+### PCB image
 ![PCB Front](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20PCB%20Front.jpg)
-![PCB Back]()
