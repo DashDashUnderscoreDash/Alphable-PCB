@@ -1,6 +1,6 @@
 # **Alphable**
 
-Alphable is an STM32 12u alpha stagger PCB with leafspring tadpole mounting
+Alphable is an STM32 12u alpha stagger PCB with leaf spring tadpole mounting
 
 The goal of this PCB is to have a basic in stock 12u alpha stagger PCB
 
@@ -14,6 +14,8 @@ The goal of this PCB is to have a basic in stock 12u alpha stagger PCB
 - STEP model of PCB
 - Edgecuts
 ```
+
+Chronomap has an open source case, Boyardee, [which can be found here](https://github.com/prjacobson/boyardee) if you'd like to print your own case.
 
 
 ### KLC layout
