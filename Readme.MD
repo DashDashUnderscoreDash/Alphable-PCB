@@ -1,5 +1,7 @@
 # **Alphable**
 
+### These PCBs are fully tested and have had multiple runs - Confirmed working!
+
 Alphable is an STM32 12u alpha stagger PCB with leaf spring tadpole mounting
 
 The goal of this PCB is to have a basic in stock 12u alpha stagger PCB
@@ -21,5 +23,11 @@ Chronomap has an open source case, Boyardee, [which can be found here](https://g
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20KLE.jpg)
 
-### PCB image
-![PCB Front](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20PCB%20Front.jpg)
+### PCB front
+![PCB Front](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20Front%20-%20169%20-%201080.jpg)
+
+### PCB back
+![PCB Back](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20Back%20-%20169%20-%201080.png)
+
+### Build
+![Build](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%205%20-%20Cropped%201080.png)
