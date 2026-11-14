@@ -11,10 +11,11 @@ The goal of this PCB is to have a basic in stock 12u alpha stagger PCB
 ### In this repo you will find:
 ```
 - Layout options
-- Images of PCB - Front only for now
-- Firmware
+- Images of PCB
+- Firmware & source
 - STEP model of PCB
 - Edgecuts
+- KLE JSON
 ```
 
 Chronomap has an open source case, Boyardee, [which can be found here](https://github.com/prjacobson/boyardee) if you'd like to print your own case.
