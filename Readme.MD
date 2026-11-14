@@ -19,7 +19,7 @@ Chronomap has an open source case, Boyardee, [which can be found here](https://g
 
 
 ### KLC layout
-![KLC layout](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20KLC.jpg)
+![KLC layout](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20KLE.jpg)
 
 ### PCB image
 ![PCB Front](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20PCB%20Front.jpg)
